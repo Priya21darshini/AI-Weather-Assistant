@@ -74,3 +74,43 @@ venv\Scripts\activate
 
 streamlit run app.py
 
+📁 Folder Structure
+.
+
+├── app.py
+
+├── weather_api.py
+
+├── visualizer.py
+
+├── ai_tip_generator.py
+
+├── utils.py
+
+├── requirements.txt
+
+├── data/
+
+├── screenshots/
+
+└── .env  # (not uploaded)
+
+💡 Future Ideas
+
+-Add hourly forecast as table
+
+-Weather comparison between 2 cities
+
+-Auto-detect current location
+
+-Add animations or icons
+
+🤖 Built With
+
+-Streamlit
+
+-OpenWeatherMap API
+
+-Python · Plotly · Pandas · PyDeck
+
+🙋‍♀️ Author- Priyadarshini Singh
